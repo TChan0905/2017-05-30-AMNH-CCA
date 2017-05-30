@@ -2,7 +2,7 @@
 
 # This is a sample loop in bash.
 
-for i in {1..10};
+for i in {1..9};
 do 
 echo $i;
 done
